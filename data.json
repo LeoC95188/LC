@@ -1,0 +1,2360 @@
+[
+    {
+        "name": "Labrador Retriever",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "German Shepherd",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Golden Retriever",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "French Bulldog",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bulldog",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Beagle",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Poodle",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Rottweiler",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Yorkshire Terrier",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Boxer",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dachshund",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Siberian Husky",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Pembroke Welsh Corgi",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Doberman Pinscher",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Great Dane",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Shih Tzu",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Pomeranian",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": false
+    },
+    {
+        "name": "Boston Terrier",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": false
+    },
+    {
+        "name": "Chihuahua",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Maltese",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Shetland Sheepdog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cavalier King Charles Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bichon Frise",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Havanese",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Pekingese",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Border Collie",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Chihuahua",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Maltese",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Shetland Sheepdog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cavalier King Charles Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": false 
+    },
+    {
+        "name": "Papillon",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Havanese",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Pekingese",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Border Collie",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Affenpinscher",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Regal Afghan Hound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Airedale Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Akita",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Alaskan Malamute",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Bulldog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American English Coonhound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Eskimo Dog",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "American Foxhound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Hairless Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "American Leopard Hound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Pit Bull Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Staffordshire Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Water Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Anatolian Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Appenzeller Sennenhund",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Australian Cattle Dog",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Leopard Hound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Appenzeller Sennenhund",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Pit Bull Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Australian Cattle Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Staffordshire Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Water Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "American Hairless Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Anatolian Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Australian Terrier",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Australian Terrier",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Basenji",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Basset Hound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bearded Collie",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Beauceron",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bedlington Terrier",
+        "large": false,
+        "allergy": true,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Belgian Shepherd",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bergamasco Shepherd",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Berger Picard",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Australian Terrier",
+        "large": false,
+        "allergy": true,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Anatolian Shepherd Dog",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Leopard Hound",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Staffordshire Terrier",
+        "large": false,
+        "allergy": false,
+        "others": false,
+        "fur": false,
+        "working": false,
+        "temperment": false
+    },
+    {
+        "name": "American Water Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": false,
+        "fur": false,
+        "working": false,
+        "temperment": false
+    },
+    {
+        "name": "American Hairless Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": false
+    },
+    {
+        "name": "Australian Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": false
+    },
+    {
+        "name": "American Pit Bull Terrier",
+        "large": false,
+        "allergy": true,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Australian Cattle Dog",
+        "large": false,
+        "allergy": true,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "American Leopard Hound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Appenzeller Sennenhund",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Pit Bull Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Australian Cattle Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Staffordshire Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "American Water Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Anatolian Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Australian Terrier",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Basenji",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Basset Hound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bearded Collie",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Beauceron",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bedlington Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Belgian Shepherd",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bergamasco Shepherd",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Berger Picard",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bernese Mountain Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bichon Frisé",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Biewer Terrier",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Billy",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Black and Tan Coonhound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Black and Tan Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Black Norwegian Elkhound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Black Russian Terrier",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Black Mouth Cur",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bloodhound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Blue Lacy",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Blue Picardy Spaniel",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bluetick Coonhound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Boerboel",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bohemian Shepherd",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bouvier des Flandres",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": false
+    },
+    {
+        "name": "Boxer",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Boykin Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bracco Italiano",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Braque du Bourbonnais",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": false
+    },
+    {
+        "name": "Braque Français",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Brazilian Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Briard",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Brittany",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": false
+    },
+    {
+        "name": "Broholmer",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Brussels Griffon",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bucovina Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": true,
+        "temperment": false
+    },
+    {
+        "name": "Bull Terrier",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bulldog",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bullmastiff",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cairn Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Canaan Dog",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cane Corso",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": false
+    },
+    {
+        "name": "Cardigan Welsh Corgi",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Catahoula Leopard Dog",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Catalan Sheepdog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": false
+    },
+    {
+        "name": "Caucasian Shepherd Dog",
+        "large": true,
+        "allergy": true,
+        "others": false,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cavalier King Charles Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Central Asian Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cesky Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chesapeake Bay Retriever",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": false
+    },
+    {
+        "name": "Chihuahua",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinese Crested",
+        "large": false,
+        "allergy": true,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinese Shar-Pei",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinook",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bullmastiff",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cairn Terrier",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Canaan Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cane Corso",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cardigan Welsh Corgi",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Catahoula Leopard Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Catalan Sheepdog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Caucasian Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cavalier King Charles Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Central Asian Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cesky Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chesapeake Bay Retriever",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Chihuahua",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinese Crested",
+        "large": false,
+        "allergy": true,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinese Shar-Pei",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinook",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Chow Chow",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Clumber Spaniel",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Cocker Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Collie",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Coonhound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Corgi",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Coton de Tulear",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Curly-Coated Retriever",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dachshund",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Dalmatian",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dandie Dinmont Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Doberman Pinscher",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dogue de Bordeaux",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dutch Shepherd",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bullmastiff",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cairn Terrier",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Canaan Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cane Corso",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cardigan Welsh Corgi",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Catahoula Leopard Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Catalan Sheepdog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Caucasian Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cavalier King Charles Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Central Asian Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cesky Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chesapeake Bay Retriever",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Chihuahua",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinese Crested",
+        "large": false,
+        "allergy": true,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinese Shar-Pei",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinook",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Chow Chow",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Clumber Spaniel",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Cocker Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Collie",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Coonhound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Corgi",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Coton de Tulear",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Curly-Coated Retriever",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dachshund",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Dalmatian",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dandie Dinmont Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Doberman Pinscher",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dogue de Bordeaux",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dutch Shepherd",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Bullmastiff",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cairn Terrier",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Canaan Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cane Corso",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cardigan Welsh Corgi",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Catahoula Leopard Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Catalan Sheepdog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Caucasian Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cavalier King Charles Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Central Asian Shepherd Dog",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cesky Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chesapeake Bay Retriever",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Chihuahua",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinese Crested",
+        "large": false,
+        "allergy": true,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinese Shar-Pei",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chinook",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Chow Chow",
+        "large": true,
+        "allergy": false,
+        "others": false,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Clumber Spaniel",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Cocker Spaniel",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Collie",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Coonhound",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Corgi",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Coton de Tulear",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Curly-Coated Retriever",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dachshund",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Dalmatian",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dandie Dinmont Terrier",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": false,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Doberman Pinscher",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dogue de Bordeaux",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Dutch Shepherd",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Labradoodle (Labrador Retriever + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Goldendoodle (Golden Retriever + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Cockapoo (Cocker Spaniel + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Maltipoo (Maltese + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Puggle (Pug + Beagle)",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Schnoodle (Schnauzer + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Yorkipoo (Yorkshire Terrier + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bernedoodle (Bernese Mountain Dog + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bichpoo (Bichon Frise + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chiweenie (Chihuahua + Dachshund)",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chorkie (Chihuahua + Yorkshire Terrier)",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Goldador (Golden Retriever + Labrador Retriever)",
+        "large": true,
+        "allergy": false,
+        "others": true,
+        "fur": false,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Havapoo (Havanese + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Morkie (Maltese + Yorkshire Terrier)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Peekapoo (Pekingese + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Pomapoo (Pomeranian + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Poochon (Poodle + Bichon Frise)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Puggle (Pug + Beagle)",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Shihpoo (Shih Tzu + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Sproodle (Springer Spaniel + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Westiepoo (West Highland White Terrier + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Whoodle (Wheaten Terrier + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Yorkipoo (Yorkshire Terrier + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Zuchon (Shih Tzu + Bichon Frise)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Aussiedoodle (Australian Shepherd + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bernedoodle (Bernese Mountain Dog + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Bordoodle (Border Collie + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": true,
+        "temperment": true
+    },
+    {
+        "name": "Cavapoo (Cavalier King Charles Spaniel + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Chug (Chihuahua + Pug)",
+        "large": false,
+        "allergy": false,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Cockapoo (Cocker Spaniel + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Doxiepoo (Dachshund + Poodle)",
+        "large": false,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    },
+    {
+        "name": "Goldendoodle (Golden Retriever + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": false
+    },
+    {
+        "name": "Labradoodle (Labrador Retriever + Poodle)",
+        "large": true,
+        "allergy": true,
+        "others": true,
+        "fur": true,
+        "working": false,
+        "temperment": true
+    }
+]

@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>751</width>
+    <height>368</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">*{
+	font-family: NSimSun;
+}
+QMainWindow{
+	background-color: #eee;
+}
+QRadioButton{
+	height: 100px;
+	width: 200px;
+	font-size: 48px;
+}
+QPushButton{
+	font-size: 36px;
+	background-color: #ddd;
+}</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout_2">
+    <property name="leftMargin">
+     <number>0</number>
+    </property>
+    <property name="topMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
+    <property name="bottomMargin">
+     <number>0</number>
+    </property>
+    <item row="0" column="1">
+     <widget class="QStackedWidget" name="stackedWidget">
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="page_0_intro">
+       <property name="font">
+        <font>
+         <family>NSimSun</family>
+         <pointsize>48</pointsize>
+        </font>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_9" rowstretch="0,1,1,1" columnstretch="0,1,1">
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_0">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>48</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>‎ </string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1" colspan="2">
+         <widget class="QLabel" name="label_0_prompt">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>28</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: #e8e8e8;</string>
+          </property>
+          <property name="text">
+           <string>Welcome, this test will help you decide which dog breed suits your personal needs best.</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1" colspan="2">
+         <widget class="QLabel" name="label_0_detail">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>18</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string> Please answer questions with the yes or no button and click next to move on.</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="2">
+         <widget class="QPushButton" name="button_next_page_0">
+          <property name="text">
+           <string>Next</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_1_size">
+       <property name="font">
+        <font>
+         <family>NSimSun</family>
+         <pointsize>48</pointsize>
+        </font>
+       </property>
+       <layout class="QGridLayout" name="gridLayout" rowstretch="0,1,1,1" columnstretch="0,1,1">
+        <item row="3" column="2">
+         <widget class="QPushButton" name="button_next_page_1">
+          <property name="text">
+           <string>Next</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="2">
+         <widget class="QRadioButton" name="radioButton_1_no">
+          <property name="text">
+           <string>No</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QRadioButton" name="radioButton_1_yes">
+          <property name="text">
+           <string>Yes</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1" colspan="2">
+         <widget class="QLabel" name="label_1_prompt">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>28</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: #e8e8e8;</string>
+          </property>
+          <property name="text">
+           <string>Do you like a large dog more than a small dog?</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_1">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>48</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>1</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QPushButton" name="button_prev_page_1">
+          <property name="cursor">
+           <cursorShape>ArrowCursor</cursorShape>
+          </property>
+          <property name="text">
+           <string>Previous</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_2_allergy">
+       <layout class="QGridLayout" name="gridLayout_3" rowstretch="0,1,1,1" columnstretch="0,1,1">
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_2">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>48</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>2</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1" colspan="2">
+         <widget class="QLabel" name="label_2_prompt">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>28</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: #e8e8e8;</string>
+          </property>
+          <property name="text">
+           <string>Does this dog need to be hypoallergenic?</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QRadioButton" name="radioButton_2_yes">
+          <property name="text">
+           <string>Yes</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="2">
+         <widget class="QRadioButton" name="radioButton_2_no">
+          <property name="text">
+           <string>No</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QPushButton" name="button_prev_page_2">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>-1</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>Previous</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="2">
+         <widget class="QPushButton" name="button_next_page_2">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>-1</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>Next</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_3_others">
+       <layout class="QGridLayout" name="gridLayout_4" rowstretch="0,1,1,1" columnstretch="0,1,1">
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_3">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>48</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>3</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QRadioButton" name="radioButton_3_yes">
+          <property name="text">
+           <string>Yes</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="2">
+         <widget class="QRadioButton" name="radioButton_3_no">
+          <property name="text">
+           <string>No</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1" colspan="2">
+         <widget class="QLabel" name="label_3_prompt">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>28</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: #e8e8e8;</string>
+          </property>
+          <property name="text">
+           <string>Do you have any other pets?</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QPushButton" name="button_prev_page_3">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>-1</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>Previous</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="2">
+         <widget class="QPushButton" name="button_next_page_3">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>-1</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>Next</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_4_fur">
+       <layout class="QGridLayout" name="gridLayout_5" rowstretch="0,1,1,1" columnstretch="0,1,1">
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_4">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>48</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>4</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QRadioButton" name="radioButton_4_yes">
+          <property name="text">
+           <string>Yes</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="2">
+         <widget class="QRadioButton" name="radioButton_4_no">
+          <property name="text">
+           <string>No</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1" colspan="2">
+         <widget class="QLabel" name="label_4_prompt">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>28</pointsize>
+           </font>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: #e8e8e8;</string>
+          </property>
+          <property name="text">
+           <string>Would you prefer a fluffy dog over a short-haired one?</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QPushButton" name="button_prev_page_4">
+          <property name="text">
+           <string>Previous</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="2">
+         <widget class="QPushButton" name="button_next_page_4">
+          <property name="text">
+           <string>Next</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_5_working">
+       <layout class="QGridLayout" name="gridLayout_6" rowstretch="0,1,1,1" columnstretch="0,1,1">
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_5">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>48</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>5</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="2">
+         <widget class="QRadioButton" name="radioButton_5_no">
+          <property name="text">
+           <string>No</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QRadioButton" name="radioButton_5_yes">
+          <property name="text">
+           <string>Yes</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1" colspan="2">
+         <widget class="QLabel" name="label_5_prompt">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>28</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: #e8e8e8;</string>
+          </property>
+          <property name="text">
+           <string>Does this dog need to work on the farm/around the house for you?</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QPushButton" name="button_prev_page_5">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>-1</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>Previous</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="2">
+         <widget class="QPushButton" name="button_next_page_5">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>-1</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>Next</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_6_temperment">
+       <layout class="QGridLayout" name="gridLayout_8" rowstretch="0,1,1,1" columnstretch="0,1,1">
+        <item row="2" column="2">
+         <widget class="QRadioButton" name="radioButton_6_no">
+          <property name="text">
+           <string>No</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1" colspan="2">
+         <widget class="QLabel" name="label_6_prompt">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>28</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: #e8e8e8;</string>
+          </property>
+          <property name="text">
+           <string>Does this dog's temperment need to be protective rather than friendly?</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_6">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>48</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>6</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QRadioButton" name="radioButton_6_yes">
+          <property name="text">
+           <string>Yes</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="2">
+         <widget class="QPushButton" name="button_next_page_6">
+          <property name="text">
+           <string>Next</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QPushButton" name="button_prev_page_6">
+          <property name="text">
+           <string>Previous</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_7_conclusion">
+       <layout class="QGridLayout" name="gridLayout_10" rowstretch="0,1,1,1" columnstretch="0,1,1">
+        <item row="2" column="1" colspan="2">
+         <widget class="QLabel" name="label_7_detail">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>48</pointsize>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>TextLabel</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_7">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>48</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>‎ </string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QPushButton" name="button_prev_page_7">
+          <property name="text">
+           <string>Previous</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1" colspan="2">
+         <widget class="QLabel" name="label_7_prompt">
+          <property name="font">
+           <font>
+            <family>NSimSun</family>
+            <pointsize>28</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: #e8e8e8;</string>
+          </property>
+          <property name="text">
+           <string>Your recommended dog is the...</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="2">
+         <widget class="QPushButton" name="button_restart">
+          <property name="text">
+           <string>Restart</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
